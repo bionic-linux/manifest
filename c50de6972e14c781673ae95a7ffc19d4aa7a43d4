@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f265dab5_b9a98f51",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1895570
+      },
+      "writtenOn": "2024-11-19T18:25:14Z",
+      "side": 1,
+      "message": "PDK-Review is no-op for removing projects, stamping +1.",
+      "revId": "c50de6972e14c781673ae95a7ffc19d4aa7a43d4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
