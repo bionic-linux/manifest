@@ -16,6 +16,24 @@
       "message": "Hmm, perhaps I\u0027m missing something but I don\u0027t think we want to pin these. They shouldn\u0027t change except for good reason, and I think we\u0027d want to trigger an update if they do change.",
       "revId": "05e3c4205f67cfbf00156569360f8e2d45ac76e0",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9351ce0d_8388d530",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1010056
+      },
+      "writtenOn": "2024-11-19T01:54:37Z",
+      "side": 1,
+      "message": "Marking unresolved until we can discuss this tomorrow.",
+      "parentUuid": "26731d3c_d28cb955",
+      "revId": "05e3c4205f67cfbf00156569360f8e2d45ac76e0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
