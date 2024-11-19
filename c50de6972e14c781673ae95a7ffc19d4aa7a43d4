@@ -33,6 +33,24 @@
       "message": "Waiting for Per to verify.",
       "revId": "c50de6972e14c781673ae95a7ffc19d4aa7a43d4",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bf255617_3c22dd5b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1807569
+      },
+      "writtenOn": "2024-11-19T22:35:06Z",
+      "side": 1,
+      "message": "Sorry about the delay, LGTM.",
+      "parentUuid": "79bc62e6_c707a8a8",
+      "revId": "c50de6972e14c781673ae95a7ffc19d4aa7a43d4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
