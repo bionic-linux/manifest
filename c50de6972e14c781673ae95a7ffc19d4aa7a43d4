@@ -16,6 +16,23 @@
       "message": "PDK-Review is no-op for removing projects, stamping +1.",
       "revId": "c50de6972e14c781673ae95a7ffc19d4aa7a43d4",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "79bc62e6_c707a8a8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1903830
+      },
+      "writtenOn": "2024-11-19T18:31:55Z",
+      "side": 1,
+      "message": "Waiting for Per to verify.",
+      "revId": "c50de6972e14c781673ae95a7ffc19d4aa7a43d4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
