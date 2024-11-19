@@ -16,6 +16,23 @@
       "message": "I have similar concerns about actually pinning this. It doesn\u0027t make sense to me right at the moment.",
       "revId": "214430889237ca84e513008f04d7f1803871026b",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc2a114b_b7816215",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1895570
+      },
+      "writtenOn": "2024-11-19T18:31:54Z",
+      "side": 1,
+      "message": "Not acting on a review since there is an unresolved comment.",
+      "revId": "214430889237ca84e513008f04d7f1803871026b",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
