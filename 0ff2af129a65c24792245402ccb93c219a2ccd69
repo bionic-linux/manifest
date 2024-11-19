@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ba932ee5_cd7a0ee3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1010056
+      },
+      "writtenOn": "2024-11-19T17:53:20Z",
+      "side": 1,
+      "message": "This is finally ready to merge now that http://b/377969922 is mitigated. I am hoping I don\u0027t have to rebase this again.",
+      "revId": "0ff2af129a65c24792245402ccb93c219a2ccd69",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
