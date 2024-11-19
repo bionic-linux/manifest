@@ -34,6 +34,24 @@
       "parentUuid": "26731d3c_d28cb955",
       "revId": "05e3c4205f67cfbf00156569360f8e2d45ac76e0",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "75572350_c8523c9c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1047255
+      },
+      "writtenOn": "2024-11-19T22:58:08Z",
+      "side": 1,
+      "message": "Resolved offline: we want to track the HEAD pointer of the release branches for each of these projects.  If our branches were managed by Coastguard we would use the same pinning strategy as the LLVM release branch, but because Coastguard won\u0027t update our pinning revisions we will directly track HEAD.",
+      "parentUuid": "9351ce0d_8388d530",
+      "revId": "05e3c4205f67cfbf00156569360f8e2d45ac76e0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
