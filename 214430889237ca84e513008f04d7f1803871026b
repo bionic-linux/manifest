@@ -33,6 +33,24 @@
       "message": "Not acting on a review since there is an unresolved comment.",
       "revId": "214430889237ca84e513008f04d7f1803871026b",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "524e2950_efbdac25",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1047255
+      },
+      "writtenOn": "2024-11-19T22:58:20Z",
+      "side": 1,
+      "message": "Resolved offline: we want to track the HEAD pointer of the release branches for each of these projects.  If our branches were managed by Coastguard we would use the same pinning strategy as the LLVM release branch, but because Coastguard won\u0027t update our pinning revisions we will directly track HEAD.",
+      "parentUuid": "5d9e4aca_0e227567",
+      "revId": "214430889237ca84e513008f04d7f1803871026b",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
