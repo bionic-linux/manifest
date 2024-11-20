@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  BOGUS!
+
   <remote  name="aosp"
            fetch=".."
            review="https://android-review.googlesource.com/" />
