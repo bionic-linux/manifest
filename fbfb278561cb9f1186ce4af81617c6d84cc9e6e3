@@ -123,6 +123,23 @@
       "parentUuid": "00b29438_fb2f5acc",
       "revId": "fbfb278561cb9f1186ce4af81617c6d84cc9e6e3",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "abff3a75_8aa4f090",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1099465
+      },
+      "writtenOn": "2024-11-20T19:49:48Z",
+      "side": 1,
+      "message": "This CL is a prerequisite for https://b.corp.google.com/issues/372575624\n\n@samgarg@google.com",
+      "revId": "fbfb278561cb9f1186ce4af81617c6d84cc9e6e3",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
