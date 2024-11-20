@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "12f70c17_8bb144fb",
+        "filename": "default.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1010056
+      },
+      "writtenOn": "2024-11-20T05:18:04Z",
+      "side": 1,
+      "message": "Hmm, I think we\u0027re actually in more danger than I thought here. We most certainly don\u0027t want to hold bionic back then for building the rest of the platform. 😞 I think we need to be more careful about what paths are used to build the toolchain vs. what paths are used to then verify the built toolchain.",
+      "revId": "25a64658106e7a319075482ab6db38f38fe634a1",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
