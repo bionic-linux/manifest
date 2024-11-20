@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f18d28b8_53e4bd9d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3594453
+      },
+      "writtenOn": "2024-11-20T15:53:41Z",
+      "side": 1,
+      "message": "Thanks for the review! I am waiting to successfully add the /external/rust/crates/libusb1_sys repo to manifest as rusb depends on libusb1-sys and then I will submit this CL.",
+      "revId": "fde2e266508dd5b11c7598351168d3f8f4aa99bd",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
