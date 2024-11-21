@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6c83e9f6_db5c27c6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3594453
+      },
+      "writtenOn": "2024-11-21T15:46:00Z",
+      "side": 1,
+      "message": "Adding the libusb1-sys to manifest again (previously reverted ) after change to the repo aosp/3368137.",
+      "revId": "53b08ce81808e1c54f2c2df010a31cc943d02264",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
