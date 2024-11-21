@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4e5c8ce0_d767f9c7",
+        "filename": "default.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1010056
+      },
+      "writtenOn": "2024-11-21T08:55:33Z",
+      "side": 1,
+      "message": "This needs to be removed here too, IMO. I know this is just for the rust-toolchain build, but I\u0027d rather it be consistent with main-plus-rust.",
+      "range": {
+        "startLine": 27,
+        "startChar": 48,
+        "endLine": 27,
+        "endChar": 80
+      },
+      "revId": "29950744866150c01e1a0c721ea86f3777bb84e3",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
