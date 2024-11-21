@@ -16,6 +16,24 @@
       "message": "Hmm, I think we\u0027re actually in more danger than I thought here. We most certainly don\u0027t want to hold bionic back then for building the rest of the platform. 😞 I think we need to be more careful about what paths are used to build the toolchain vs. what paths are used to then verify the built toolchain.",
       "revId": "25a64658106e7a319075482ab6db38f38fe634a1",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "53047f80_4a3ae8f2",
+        "filename": "default.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1047255
+      },
+      "writtenOn": "2024-11-21T07:33:35Z",
+      "side": 1,
+      "message": "I removed the `upstream` tag for Bionic.  The rest of the projects look fine.  If anything breaks in the future it should be easy to diagnose and fix.",
+      "parentUuid": "12f70c17_8bb144fb",
+      "revId": "25a64658106e7a319075482ab6db38f38fe634a1",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
