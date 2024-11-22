@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1e05c13a_c1755588",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1966846
+      },
+      "writtenOn": "2024-11-22T19:04:05Z",
+      "side": 1,
+      "message": "Mac Builds Successful: go/abtd/run/L20100030007945742/",
+      "revId": "fb5fc93fd657bc6da64193f3959ef43936958b81",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
