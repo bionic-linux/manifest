@@ -16,6 +16,23 @@
       "message": "Uploaded patchset 2 due to resolved merge conflicts that appeared since the patchset 1 upload.",
       "revId": "d61273aa047c3a6a178a4013c089a5e8641d5527",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3023668a_722af433",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3594453
+      },
+      "writtenOn": "2024-11-25T09:45:03Z",
+      "side": 1,
+      "message": "Hi, could you please re-send the PDK-Review vote as it got outdated when I resolved some merge conflicts (that appeared as I had to wait for the import of rusb\u0027s dependency). Thank you!",
+      "revId": "d61273aa047c3a6a178a4013c089a5e8641d5527",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
