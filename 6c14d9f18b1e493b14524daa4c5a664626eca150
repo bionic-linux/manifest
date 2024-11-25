@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cef69cf2_b8b512ec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1979146
+      },
+      "writtenOn": "2024-11-25T20:44:21Z",
+      "side": 1,
+      "message": "Is there a bug ID associated with this change?",
+      "revId": "6c14d9f18b1e493b14524daa4c5a664626eca150",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
