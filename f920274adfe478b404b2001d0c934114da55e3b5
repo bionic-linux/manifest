@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "913abdd0_63578bdd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1052644
+      },
+      "writtenOn": "2024-11-26T17:54:40Z",
+      "side": 1,
+      "message": "Looking at [this comment](https://android-review.git.corp.google.com/c/platform/manifest/+/3270760/comment/6b4eb77b_91cce9f2/), should we check whether we still need `external/desugar` to run Libcore tests with Vogar?",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 23
+      },
+      "revId": "f920274adfe478b404b2001d0c934114da55e3b5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
