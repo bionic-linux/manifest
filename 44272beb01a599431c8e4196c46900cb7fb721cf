@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "26c136b3_4efe904c",
+        "filename": "default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 1373864
+      },
+      "writtenOn": "2024-11-26T17:48:07Z",
+      "side": 0,
+      "message": "Can you please try removing these too? If the indentation is to be trusted, they\u0027re only here because desugar depends on them.",
+      "range": {
+        "startLine": 127,
+        "startChar": 0,
+        "endLine": 128,
+        "endChar": 101
+      },
+      "revId": "44272beb01a599431c8e4196c46900cb7fb721cf",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
