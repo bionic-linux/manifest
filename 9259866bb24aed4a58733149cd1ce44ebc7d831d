@@ -16,6 +16,24 @@
       "message": "Just as a reminder, please cherry-pick this to the internal git_master-art-host as well.",
       "revId": "9259866bb24aed4a58733149cd1ce44ebc7d831d",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ebd1fb66_e2e2a2c6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1065473
+      },
+      "writtenOn": "2024-11-27T15:15:07Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "66d38f2c_fa0f090c",
+      "revId": "9259866bb24aed4a58733149cd1ce44ebc7d831d",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
