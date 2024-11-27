@@ -46,6 +46,30 @@
       },
       "revId": "f920274adfe478b404b2001d0c934114da55e3b5",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "583c7351_9e8c1627",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1052644
+      },
+      "writtenOn": "2024-11-27T15:31:56Z",
+      "side": 1,
+      "message": "Thanks!\n\n(For the record, this is implemented in https://android-review.git.corp.google.com/c/platform/external/vogar/+/3379984 IIUC.)",
+      "parentUuid": "c7d5130e_d1c608d1",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 23
+      },
+      "revId": "f920274adfe478b404b2001d0c934114da55e3b5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
