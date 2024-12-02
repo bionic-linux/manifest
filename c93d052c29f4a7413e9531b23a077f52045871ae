@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "91c43a6a_3c9c0784",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1979146
+      },
+      "writtenOn": "2024-12-02T20:44:39Z",
+      "side": 1,
+      "message": "Downstream branches have been created for:\n- platform/external/rust/crates/inotify-sys\n- platform/external/rust/crates/inotify\n- platform/external/rust/crates/maplit\n\nI am waiting for presubmit to pass before beginning PDK-Review.",
+      "revId": "c93d052c29f4a7413e9531b23a077f52045871ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
