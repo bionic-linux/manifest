@@ -1,9 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <manifest>
+<<<<<<< HEAD   (a15550 Merge empty history for sparse-12414100-L10000030008087615)
+||||||| BASE
+  <remote name="aosp" fetch=".." review="https://android-review.googlesource.com/" />
+  <default revision="androidx-navigation-release" remote="aosp" />
+  <project path="build/make" name="platform/build" revision="f8a09025ac34591eba759222cf1960946ba2f983" upstream="androidx-navigation-release" />
+=======
+  <remote name="aosp" fetch=".." review="https://android-review.googlesource.com/" />
+  <default revision="sparse-12602964-L34900030008128209" remote="aosp" />
+  <project path="build/make" name="platform/build" revision="f8a09025ac34591eba759222cf1960946ba2f983" upstream="androidx-navigation-release" />
+>>>>>>> BRANCH (c46931 Pin manifest of sparse-12602964-L34900030008128209(None))
 
+<<<<<<< HEAD   (a15550 Merge empty history for sparse-12414100-L10000030008087615)
   <remote fetch=".." name="aosp" review="https://android-review.googlesource.com/" />
   <default remote="aosp" revision="sparse-4986261-L13200000208673522" sync-j="4" />
+||||||| BASE
+  
+  
+  <project path="external/dexter" name="platform/tools/dexter" clone-depth="1" revision="2675fb25328cf5fe66b4cc1a6332f1fefe64baea" upstream="androidx-navigation-release" />
+  <project path="external/noto-fonts" name="platform/external/noto-fonts" clone-depth="1" revision="4637b51cb0a8f433ea66abf906b6c58d54ff81ed" upstream="androidx-navigation-release" />
+  <project path="external/webview_support_interfaces" name="platform/external/webview_support_interfaces" clone-depth="1" revision="dd21c25c00accfa500338a7a45677daf84b7d879" upstream="androidx-navigation-release" />
+  <project path="external/icing" name="platform/external/icing" clone-depth="1" revision="6158c74279aa825cd8a1ce749b00e9f94120d2c1" upstream="androidx-navigation-release" />
+  <project path="external/icu" name="platform/external/icu" clone-depth="1" revision="57134ed0c1c5d11019206a5fb1619ae84cfc472f" upstream="androidx-navigation-release" />
+  <project path="external/sqlite" name="platform/external/sqlite" clone-depth="1" revision="ea82b873876703f67948107f0d59691cea51ebd0" upstream="androidx-navigation-release" />
+  
+  <project path="external/protobuf" name="platform/external/protobuf" clone-depth="1" revision="a74d36a9a6224a832449dbfff7a892d9c1ff3898" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/external" name="platform/prebuilts/androidx/external" clone-depth="1" revision="722ac3a2dcf553439febc2226d8fb74e27631dd2" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/internal" name="platform/prebuilts/androidx/internal" clone-depth="1" revision="0866131e745373fcfe333280b4c63734cde1e875" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/exoplayer" name="platform/prebuilts/androidx/exoplayer" clone-depth="1" revision="bf541a906e4ea6222993fff61418428320518ef0" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/ink" name="platform/prebuilts/androidx/ink" clone-depth="1" revision="d146b7545e220871eb9579f4b95a9c9f244eee44" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/traceprocessor" name="platform/prebuilts/androidx/traceprocessor" clone-depth="1" revision="6f6349fb2de9e837cbe945a379d16d0205f87e18" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/konan" name="platform/prebuilts/androidx/konan" clone-depth="1" revision="c9740fc3f0fa3d13e73768e13e04113d130b97be" upstream="androidx-navigation-release" />
+=======
+  
+  
+  <project path="external/dexter" name="platform/tools/dexter" clone-depth="1" revision="2675fb25328cf5fe66b4cc1a6332f1fefe64baea" upstream="androidx-navigation-release" />
+  <project path="external/noto-fonts" name="platform/external/noto-fonts" clone-depth="1" revision="4637b51cb0a8f433ea66abf906b6c58d54ff81ed" upstream="androidx-navigation-release" />
+  <project path="external/webview_support_interfaces" name="platform/external/webview_support_interfaces" clone-depth="1" revision="dd21c25c00accfa500338a7a45677daf84b7d879" upstream="androidx-navigation-release" />
+  <project path="external/icing" name="platform/external/icing" clone-depth="1" revision="6158c74279aa825cd8a1ce749b00e9f94120d2c1" upstream="androidx-navigation-release" />
+  <project path="external/icu" name="platform/external/icu" clone-depth="1" revision="57134ed0c1c5d11019206a5fb1619ae84cfc472f" upstream="androidx-navigation-release" />
+  <project path="external/sqlite" name="platform/external/sqlite" clone-depth="1" revision="ea82b873876703f67948107f0d59691cea51ebd0" upstream="androidx-navigation-release" />
+  
+  <project path="external/protobuf" name="platform/external/protobuf" clone-depth="1" revision="a74d36a9a6224a832449dbfff7a892d9c1ff3898" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/external" name="platform/prebuilts/androidx/external" clone-depth="1" revision="2e421a9413fb104a7cf3de63bdbf2a25e973584b" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/internal" name="platform/prebuilts/androidx/internal" clone-depth="1" revision="0866131e745373fcfe333280b4c63734cde1e875" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/exoplayer" name="platform/prebuilts/androidx/exoplayer" clone-depth="1" revision="bf541a906e4ea6222993fff61418428320518ef0" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/ink" name="platform/prebuilts/androidx/ink" clone-depth="1" revision="d146b7545e220871eb9579f4b95a9c9f244eee44" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/traceprocessor" name="platform/prebuilts/androidx/traceprocessor" clone-depth="1" revision="6f6349fb2de9e837cbe945a379d16d0205f87e18" upstream="androidx-navigation-release" />
+  <project path="prebuilts/androidx/konan" name="platform/prebuilts/androidx/konan" clone-depth="1" revision="c9740fc3f0fa3d13e73768e13e04113d130b97be" upstream="androidx-navigation-release" />
+>>>>>>> BRANCH (c46931 Pin manifest of sparse-12602964-L34900030008128209(None))
 
+<<<<<<< HEAD   (a15550 Merge empty history for sparse-12414100-L10000030008087615)
   <project groups="pdk" name="platform/build" path="build/make" revision="c4513fd7c04d096845355c728533de8273301e48">
     <copyfile dest="Makefile" src="core/root.mk" />
     <linkfile dest="build/CleanSpec.mk" src="CleanSpec.mk" />
@@ -12,6 +59,53 @@
     <linkfile dest="build/envsetup.sh" src="envsetup.sh" />
     <linkfile dest="build/target" src="target" />
     <linkfile dest="build/tools" src="tools" />
+||||||| BASE
+  
+  <project path="external/abseil-cpp" name="platform/external/abseil-cpp" clone-depth="1" revision="c344413f94c5d0f666701261c7b24ba1c56b2bb7" upstream="androidx-navigation-release" />
+  <project path="external/ink-stroke-modeler" name="platform/external/ink-stroke-modeler" clone-depth="1" revision="2a7a122b5c5b145a9e967b69ed8c3b02f8514f73" upstream="androidx-navigation-release" />
+  <project path="external/libyuv" name="platform/external/libyuv" clone-depth="1" revision="66b6617288a727c5c7d757ffa97cfd51ce53fe27" upstream="androidx-navigation-release" />
+
+  
+  
+  <project path="prebuilts/checkstyle" name="platform/prebuilts/checkstyle" clone-depth="1" revision="ddb7a91dbc48c9708df9f2bac3a5949896be6ede" upstream="androidx-navigation-release" />
+  <project path="tools/repohooks" name="platform/tools/repohooks" clone-depth="1" revision="0b12e1e5fc0b6718f9e9fa314026aead9faa07fb" upstream="androidx-navigation-release" />
+  <project path="tools/fetch_artifact" name="tools/fetch_artifact" clone-depth="1" revision="afb9e7e4d364650ff4867a64508355bd65c843ae" upstream="androidx-navigation-release" />
+  <project path="tools/metalava" name="platform/tools/metalava" clone-depth="1" revision="e1b318c135ece354ed97c10e7fdba3abcd33420f" upstream="androidx-navigation-release" />
+  
+  
+  <project path="prebuilts/protobuf" name="platform/prebuilts/protobuf" clone-depth="1" revision="1032661b632ef1325de4c4829008dab8571c346e" upstream="androidx-navigation-release" />
+
+  
+  
+  <project path="tools/external/gradle" name="platform/tools/external/gradle" clone-depth="1" revision="f2ff9c1f15a46002df4fd963f79c79a7d394de5d" upstream="androidx-navigation-release" />
+
+  
+  <project path="prebuilts/fullsdk-darwin/platforms" name="platform/prebuilts/fullsdk/platforms" clone-depth="1" revision="ae916bc58e2521d693277a6d525ec03fbbb6fc6a" upstream="androidx-navigation-release">
+    <linkfile src="." dest="prebuilts/fullsdk-linux/platforms" />
+=======
+  
+  <project path="external/abseil-cpp" name="platform/external/abseil-cpp" clone-depth="1" revision="c344413f94c5d0f666701261c7b24ba1c56b2bb7" upstream="androidx-navigation-release" />
+  <project path="external/ink-stroke-modeler" name="platform/external/ink-stroke-modeler" clone-depth="1" revision="2a7a122b5c5b145a9e967b69ed8c3b02f8514f73" upstream="androidx-navigation-release" />
+  <project path="external/libyuv" name="platform/external/libyuv" clone-depth="1" revision="66b6617288a727c5c7d757ffa97cfd51ce53fe27" upstream="androidx-navigation-release" />
+
+  
+  
+  <project path="prebuilts/checkstyle" name="platform/prebuilts/checkstyle" clone-depth="1" revision="ddb7a91dbc48c9708df9f2bac3a5949896be6ede" upstream="androidx-navigation-release" />
+  <project path="tools/repohooks" name="platform/tools/repohooks" clone-depth="1" revision="0b12e1e5fc0b6718f9e9fa314026aead9faa07fb" upstream="androidx-navigation-release" />
+  <project path="tools/fetch_artifact" name="tools/fetch_artifact" clone-depth="1" revision="afb9e7e4d364650ff4867a64508355bd65c843ae" upstream="androidx-navigation-release" />
+  <project path="tools/metalava" name="platform/tools/metalava" clone-depth="1" revision="bac02739bedfcf04f9a7c081c9aa381a2a394354" upstream="androidx-navigation-release" />
+  
+  
+  <project path="prebuilts/protobuf" name="platform/prebuilts/protobuf" clone-depth="1" revision="1032661b632ef1325de4c4829008dab8571c346e" upstream="androidx-navigation-release" />
+
+  
+  
+  <project path="tools/external/gradle" name="platform/tools/external/gradle" clone-depth="1" revision="f2ff9c1f15a46002df4fd963f79c79a7d394de5d" upstream="androidx-navigation-release" />
+
+  
+  <project path="prebuilts/fullsdk-darwin/platforms" name="platform/prebuilts/fullsdk/platforms" clone-depth="1" revision="ae916bc58e2521d693277a6d525ec03fbbb6fc6a" upstream="androidx-navigation-release">
+    <linkfile src="." dest="prebuilts/fullsdk-linux/platforms" />
+>>>>>>> BRANCH (c46931 Pin manifest of sparse-12602964-L34900030008128209(None))
   </project>
   <project groups="pdk,tradefed" name="platform/build/blueprint" path="build/blueprint" revision="e730f4f2b9d1da39ab1ac3b6375acee2d6cf4069" />
   <project groups="pdk,tradefed" name="platform/build/kati" path="build/kati" revision="17da287661100ee95f6f7b16c86afbdd78243dc5" />
@@ -694,4 +788,86 @@
 
   <repo-hooks enabled-list="pre-upload" in-project="platform/tools/repohooks" />
 
+<<<<<<< HEAD   (a15550 Merge empty history for sparse-12414100-L10000030008087615)
+||||||| BASE
+  
+  <project path="prebuilts/fullsdk-linux/build-tools" name="platform/prebuilts/fullsdk-linux/build-tools" clone-depth="1" groups="notdefault,platform-linux" revision="5feea1f8d8b0d06491e48427bf92702ed78bd488" upstream="androidx-navigation-release" />
+  <project path="prebuilts/fullsdk-linux/cmdline-tools" name="platform/prebuilts/fullsdk-linux/cmdline-tools" clone-depth="1" groups="notdefault,platform-linux" revision="066e40b1aba006cf95698c9d34a5c50ff992f5d8" upstream="androidx-navigation-release" />
+  <project path="prebuilts/fullsdk-linux/platform-tools" name="platform/prebuilts/fullsdk-linux/platform-tools" clone-depth="1" groups="notdefault,platform-linux" revision="ccd59a6cc71408a1a6d43eabbefd3a5e9e450da7" upstream="androidx-navigation-release" />
+  <project path="prebuilts/fullsdk-linux/tools" name="platform/prebuilts/fullsdk-linux/tools" clone-depth="1" groups="notdefault,platform-linux" revision="2d5e66a40bd1e6d43ee458efea6f1dd5d5166a59" upstream="androidx-navigation-release" />
+  <project path="prebuilts/build-tools" name="platform/prebuilts/build-tools" groups="notdefault,platform-linux" clone-depth="1" revision="f1e15ee3498c00a329ce89d2758a5542368c209a" upstream="androidx-navigation-release" />
+
+  
+  
+  <project path="prebuilts/fullsdk-darwin/ndk-bundle" name="toolchain/prebuilts/ndk-darwin/r27" revision="ca75344ceaacb4e90888371aa3b640d8f4fbcfa8" clone-depth="1" groups="notdefault,platform-darwin" upstream="androidx-navigation-release" />
+  <project path="prebuilts/fullsdk-darwin/cmake" name="platform/prebuilts/cmake/darwin-x86" revision="e70f6b418ce7bdcd52817861e5cd39adb10c6080" groups="notdefault,platform-darwin" clone-depth="1" upstream="androidx-navigation-release">
+    <linkfile src="bin/cmake" dest="prebuilts/fullsdk-darwin/native-build-tools/bin/cmake" />
+  </project>
+  <project path="prebuilts/fullsdk-darwin/ninja" name="platform/prebuilts/ninja/darwin-x86" revision="d7e058840df477046e101aa560908cc77d8da97d" groups="notdefault,platform-darwin" clone-depth="1" upstream="androidx-navigation-release">
+    <linkfile src="ninja" dest="prebuilts/fullsdk-darwin/native-build-tools/bin/ninja" />
+  </project>
+  <project path="prebuilts/fullsdk-linux/ndk-bundle" name="toolchain/prebuilts/ndk/r27" revision="77eba0d553f8f58557f99fa98f327eb5f46e0c8c" clone-depth="1" groups="notdefault,platform-linux" upstream="androidx-navigation-release" />
+  <project path="prebuilts/fullsdk-linux/cmake" name="platform/prebuilts/cmake/linux-x86" revision="56d09cc89b2a1e5adc64e03e368cf87c7eacf6b1" groups="notdefault,platform-linux" clone-depth="1" upstream="androidx-navigation-release">
+    <linkfile src="bin/cmake" dest="prebuilts/fullsdk-linux/native-build-tools/bin/cmake" />
+  </project>
+  <project path="prebuilts/fullsdk-linux/ninja" name="platform/prebuilts/ninja/linux-x86" revision="4d74bdae2db98a8139a7344ba777e5a6185f36fe" groups="notdefault,platform-linux" clone-depth="1" upstream="androidx-navigation-release">
+    <linkfile src="ninja" dest="prebuilts/fullsdk-linux/native-build-tools/bin/ninja" />
+  </project>
+  
+  
+  
+  <project path="prebuilts/jdk/jdk17" name="platform/prebuilts/jdk/jdk17" revision="53856ca99d703f9a6ab6dd4db888580bcfdb65ac" clone-depth="1" upstream="androidx-navigation-release" />
+  <project path="prebuilts/jdk/jdk21" name="platform/prebuilts/jdk/jdk21" revision="870613009ddc56f520a6e804b172a92a360de46c" clone-depth="1" upstream="androidx-navigation-release" />
+  
+  
+  <project path="golden" name="platform/frameworks/support-golden" clone-depth="1" revision="1f75441c3759249b376653c40d9a19c790837668" upstream="androidx-navigation-release" />
+
+  
+
+  
+  <project path="frameworks/support" name="platform/frameworks/support" revision="6754f1118fa8ad573c67255da26c0eecf2531589" upstream="androidx-navigation-release" />
+  
+
+  <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
+=======
+  
+  <project path="prebuilts/fullsdk-linux/build-tools" name="platform/prebuilts/fullsdk-linux/build-tools" clone-depth="1" groups="notdefault,platform-linux" revision="5feea1f8d8b0d06491e48427bf92702ed78bd488" upstream="androidx-navigation-release" />
+  <project path="prebuilts/fullsdk-linux/cmdline-tools" name="platform/prebuilts/fullsdk-linux/cmdline-tools" clone-depth="1" groups="notdefault,platform-linux" revision="066e40b1aba006cf95698c9d34a5c50ff992f5d8" upstream="androidx-navigation-release" />
+  <project path="prebuilts/fullsdk-linux/platform-tools" name="platform/prebuilts/fullsdk-linux/platform-tools" clone-depth="1" groups="notdefault,platform-linux" revision="ccd59a6cc71408a1a6d43eabbefd3a5e9e450da7" upstream="androidx-navigation-release" />
+  <project path="prebuilts/fullsdk-linux/tools" name="platform/prebuilts/fullsdk-linux/tools" clone-depth="1" groups="notdefault,platform-linux" revision="2d5e66a40bd1e6d43ee458efea6f1dd5d5166a59" upstream="androidx-navigation-release" />
+  <project path="prebuilts/build-tools" name="platform/prebuilts/build-tools" groups="notdefault,platform-linux" clone-depth="1" revision="f1e15ee3498c00a329ce89d2758a5542368c209a" upstream="androidx-navigation-release" />
+
+  
+  
+  <project path="prebuilts/fullsdk-darwin/ndk-bundle" name="toolchain/prebuilts/ndk-darwin/r27" revision="ca75344ceaacb4e90888371aa3b640d8f4fbcfa8" clone-depth="1" groups="notdefault,platform-darwin" upstream="androidx-navigation-release" />
+  <project path="prebuilts/fullsdk-darwin/cmake" name="platform/prebuilts/cmake/darwin-x86" revision="e70f6b418ce7bdcd52817861e5cd39adb10c6080" groups="notdefault,platform-darwin" clone-depth="1" upstream="androidx-navigation-release">
+    <linkfile src="bin/cmake" dest="prebuilts/fullsdk-darwin/native-build-tools/bin/cmake" />
+  </project>
+  <project path="prebuilts/fullsdk-darwin/ninja" name="platform/prebuilts/ninja/darwin-x86" revision="d7e058840df477046e101aa560908cc77d8da97d" groups="notdefault,platform-darwin" clone-depth="1" upstream="androidx-navigation-release">
+    <linkfile src="ninja" dest="prebuilts/fullsdk-darwin/native-build-tools/bin/ninja" />
+  </project>
+  <project path="prebuilts/fullsdk-linux/ndk-bundle" name="toolchain/prebuilts/ndk/r27" revision="77eba0d553f8f58557f99fa98f327eb5f46e0c8c" clone-depth="1" groups="notdefault,platform-linux" upstream="androidx-navigation-release" />
+  <project path="prebuilts/fullsdk-linux/cmake" name="platform/prebuilts/cmake/linux-x86" revision="56d09cc89b2a1e5adc64e03e368cf87c7eacf6b1" groups="notdefault,platform-linux" clone-depth="1" upstream="androidx-navigation-release">
+    <linkfile src="bin/cmake" dest="prebuilts/fullsdk-linux/native-build-tools/bin/cmake" />
+  </project>
+  <project path="prebuilts/fullsdk-linux/ninja" name="platform/prebuilts/ninja/linux-x86" revision="4d74bdae2db98a8139a7344ba777e5a6185f36fe" groups="notdefault,platform-linux" clone-depth="1" upstream="androidx-navigation-release">
+    <linkfile src="ninja" dest="prebuilts/fullsdk-linux/native-build-tools/bin/ninja" />
+  </project>
+  
+  
+  
+  <project path="prebuilts/jdk/jdk17" name="platform/prebuilts/jdk/jdk17" revision="53856ca99d703f9a6ab6dd4db888580bcfdb65ac" clone-depth="1" upstream="androidx-navigation-release" />
+  <project path="prebuilts/jdk/jdk21" name="platform/prebuilts/jdk/jdk21" revision="870613009ddc56f520a6e804b172a92a360de46c" clone-depth="1" upstream="androidx-navigation-release" />
+  
+  
+  <project path="golden" name="platform/frameworks/support-golden" clone-depth="1" revision="1f75441c3759249b376653c40d9a19c790837668" upstream="androidx-navigation-release" />
+
+  
+
+  
+  <project path="frameworks/support" name="platform/frameworks/support" revision="0d7564a14e4be4da96e0e4d8a0755b839521b034" upstream="androidx-navigation-release" />
+  
+
+  <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
+>>>>>>> BRANCH (c46931 Pin manifest of sparse-12602964-L34900030008128209(None))
 </manifest>
