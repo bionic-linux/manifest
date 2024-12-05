@@ -16,6 +16,23 @@
       "message": "Let me fix the build. 😞",
       "revId": "2b9a1efd25729054170862317e1574aa7ec18f91",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dde749f8_7d9a6b33",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1979146
+      },
+      "writtenOn": "2024-12-05T19:32:20Z",
+      "side": 1,
+      "message": "Transferring review responsibilities to this week\u0027s on-call engineers.",
+      "revId": "2b9a1efd25729054170862317e1574aa7ec18f91",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
