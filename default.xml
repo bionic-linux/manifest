@@ -50,7 +50,7 @@
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/art" name="device/generic/art" groups="pdk" />
   <project path="device/generic/car" name="device/generic/car" groups="pdk" />
-  <project path="device/generic/common" name="device/generic/common" groups="pdk" />
+  <project path="device/generic/common" name="bionic-linux/android_device_generic_common" groups="pdk" remote="github" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" />
   <project path="device/generic/goldfish-opengl" name="device/generic/goldfish-opengl" groups="pdk" />
   <project path="device/generic/mini-emulator-arm64" name="device/generic/mini-emulator-arm64" groups="pdk" />
@@ -1073,7 +1073,7 @@
   <project path="system/ca-certificates" name="platform/system/ca-certificates" groups="pdk" />
   <project path="system/chre" name="platform/system/chre"  groups="pdk" />
   <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" groups="pdk" />
-  <project path="system/core" name="platform/system/core" groups="pdk" />
+  <project path="system/core" name="bionic-linux/android_system_core" groups="pdk" remote="github" />
   <project path="system/dmesgd" name="platform/system/dmesgd" groups="pdk" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" />
