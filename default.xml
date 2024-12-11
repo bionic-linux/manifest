@@ -195,6 +195,7 @@
   <project path="external/flac" name="platform/external/flac" groups="pdk" />
   <project path="external/flatbuffers" name="platform/external/flatbuffers" groups="pdk" />
   <project path="external/fonttools" name="platform/external/fonttools" groups="pdk" />
+  <project path="external/font_encodings" name="bionic-linux/android_external_font_encodings" groups="pdk" remote="github" />
   <project path="external/fmtlib" name="platform/external/fmtlib" groups="pdk" />
   <project path="external/freetype" name="platform/external/freetype" groups="pdk" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" groups="pdk" />
@@ -303,6 +304,7 @@
   <project path="external/libevent" name="platform/external/libevent" groups="pdk" />
   <project path="external/libexif" name="platform/external/libexif" groups="pdk" />
   <project path="external/libffi" name="platform/external/libffi" groups="pdk" />
+  <project path="external/libfontenc" name="bionic-linux/android_external_libfontenc" groups="pdk" remote="github" />
   <project path="external/libgav1" name="platform/external/libgav1" groups="pdk" />
   <project path="external/libfuse" name="platform/external/libfuse" groups="pdk" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
@@ -336,8 +338,10 @@
   <project path="external/libxaac" name="platform/external/libxaac" groups="pdk" />
   <project path="external/libXau" name="bionic-linux/android_external_libXau" groups="pdk" remote="github" />
   <project path="external/libXdmcp" name="bionic-linux/android_external_libXdmcp" groups="pdk" remote="github" />
+  <project path="external/libXfont" name="bionic-linux/android_external_libXfont" groups="pdk" remote="github" />
   <project path="external/libxkbcommon" name="platform/external/libxkbcommon" groups="pdk" />
   <project path="external/libxml2" name="platform/external/libxml2" groups="pdk,libxml2" />
+  <project path="external/libXshmfence" name="bionic-linux/android_external_libXshmfence" groups="pdk" remote="github" />
   <project path="external/libyuv" name="platform/external/libyuv" groups="pdk,libyuv" />
   <project path="external/linux-kselftest" name="platform/external/linux-kselftest" groups="vts,pdk" clone-depth="1" />
   <project path="external/llvm" name="platform/external/llvm" groups="pdk" />
